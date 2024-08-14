@@ -1,0 +1,67 @@
+{
+    "data":[
+        {
+            "title":"Atomic Habits Books by James Clear",
+            "desc":"Atomic Habits Books by James Clear books by james clear",
+            "price":"299",
+            "mrp":"799",
+            "img":"/selfhelpbooks/atomichabits.jpg"
+        },
+        {
+            "title":"Atomic Habits Books by James Clear",
+            "desc":"Atomic Habits Books by James Clear books by james clear",
+            "price":"299",
+            "mrp":"799",
+            "img":"/selfhelpbooks/courage.jpg"
+        },
+        {
+            "title":"Atomic Habits Books by James Clear",
+            "desc":"Atomic Habits Books by James Clear books by james clear",
+            "price":"299",
+            "mrp":"799",
+            "img":"/selfhelpbooks/powermind.jpg"
+        },
+        {
+            "title":"Atomic Habits Books by James Clear",
+            "desc":"Atomic Habits Books by James Clear books by james clear",
+            "price":"299",
+            "mrp":"799",
+            "img":"/selfhelpbooks/psychologyofmoney.jpg"
+        },
+        {
+            "title":"Atomic Habits Books by James Clear",
+            "desc":"Atomic Habits Books by James Clear books by james clear",
+            "price":"299",
+            "mrp":"799",
+            "img":"/selfhelpbooks/richdadpoordad.jpg"
+        },
+        {
+            "title":"Atomic Habits Books by James Clear",
+            "desc":"Atomic Habits Books by James Clear books by james clear",
+            "price":"299",
+            "mrp":"799",
+            "img":"/selfhelpbooks/thinkgrowrich.jpg"
+        },
+        {
+            "title":"Atomic Habits Books by James Clear",
+            "desc":"Atomic Habits Books by James Clear books by james clear",
+            "price":"299",
+            "mrp":"799",
+            "img":"/selfhelpbooks/winfriends.jpg"
+        },
+        {
+            "title":"Atomic Habits Books by James Clear",
+            "desc":"Atomic Habits Books by James Clear books by james clear",
+            "price":"299",
+            "mrp":"799",
+            "img":"/selfhelpbooks/youcanwin.jpg"
+        },
+        {
+            "title":"Atomic Habits Books by James Clear",
+            "desc":"Atomic Habits Books by James Clear books by james clear",
+            "price":"299",
+            "mrp":"799",
+            "img":"/selfhelpbooks/ikigai.jpg"
+        }
+    ]
+}

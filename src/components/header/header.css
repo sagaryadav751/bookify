@@ -1,0 +1,33 @@
+.box1ul
+{
+    padding: 0;
+    margin: 0;
+}
+.box2ul
+{
+    padding: 0;
+    margin: 0;
+}
+.box3ul
+{
+    padding: 0em 0em 0em 0.5em;
+    margin: 0;
+    
+}
+.box1ul li
+{
+    padding: 1.3em 0em;
+}
+.box2ul li
+{
+    padding: 1.3em 0em;
+}
+.box3ul li
+{
+    padding: 1.3em 0.7em;
+}
+.linkremover
+{
+    text-decoration: none;
+    color: #212529;
+}
